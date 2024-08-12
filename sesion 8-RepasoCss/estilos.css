@@ -1,0 +1,35 @@
+header{
+    background-color: rgb(238, 164, 207);
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+td{
+    border: 1px black solid;
+}
+.datos{
+   width: 25%;
+   background-color: rgb(207, 167, 245); 
+   padding-left:20px ;
+   padding-top: 0px;
+   padding-right: 20px ;
+   padding-bottom: 20px;
+   display: inline-block
+}
+main{
+    margin-left: 50px ;
+    
+}
+
+img{
+    width: 250px;
+}
+.etiqueta{
+    display: inline;
+}
+footer{
+    background-color:rgb(155, 0, 129) ;
+    color: blanchedalmond;
+    text-align: center;
+}
